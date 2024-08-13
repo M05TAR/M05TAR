@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mokhtar</h1>
-<h3 align="center">A passionate Back-End developer from Egypt</h3>
+<h3 align="center">A passionate Front-End developer from Egypt</h3>
 
 - I’m looking to collaborate on any Backend Project
 - I am a CS graduate
