@@ -3,7 +3,7 @@
 
 - I’m looking to collaborate on any Backend Project
 - I am a CS graduate
-- I am a junior Back-End developer
+- I am a junior Front-End developer
 - Reach me at: <om949750@gmail.com>
 - I love coding 
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-mohamed-8982082a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hefny-622b721a9" height="30" width="40" /></a>
-<a href="https://fb.com/ma7m0ud18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma7m0ud18" height="30" width="40" /></a>
+<a href="https://fb.com/ma7m0ud18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma7m0ud18" height="30" width="40" /></a
 <a href="https://instagram.com/omar__mo5taar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ma7moud.7efny" height="30" width="40" /></a>
 </p>
 
@@ -26,9 +26,9 @@
 ---
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MahmoudHefny2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=M05TAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M05TAR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M05TAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
